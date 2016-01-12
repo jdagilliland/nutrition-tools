@@ -1,6 +1,10 @@
-name,fat,carb,protein,comments
-oats,5,54,10,raw 250mL; 80g
-peanutbutter,16,6,7,30mL; 32g
-quinoa,2.8,31,6,250mL cooked; 46g dry
-chix,1,0,25,112g raw
-egg,5,0,6,medium size
+name,fat,carb,protein,mass (g),comments
+oats,5,54,10,80,raw 250mL; 80g
+peanut butter,16,6,7,32,30mL; 32g
+quinoa (dry weigh),2.8,31,6,46,250mL cooked; 46g dry
+chix (raw weigh),1,0,25,112,112g raw
+egg,5,0,6,50,large size
+almonds,15,6,6,30,
+pecans,20,4,2,28.4,
+craisins,0,33,0,40,
+chia seeds,3,5,3,13,
